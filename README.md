@@ -1,1 +1,1 @@
-# batchs
+# batch
